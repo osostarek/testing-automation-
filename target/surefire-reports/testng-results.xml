@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-10-03T15:42:37 EEST" name="E2E_AutomationTask" finished-at="2025-10-03T15:43:09 EEST" duration-ms="31982">
+    <groups>
+    </groups>
+    <test started-at="2025-10-03T15:42:37 EEST" name="automationTests" finished-at="2025-10-03T15:43:09 EEST" duration-ms="31982">
+      <class name="E2E_Test">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:E2E_Test@1afd44cb]" started-at="2025-10-03T15:42:37 EEST" name="setUp" finished-at="2025-10-03T15:42:43 EEST" duration-ms="6011" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="E2E_AutomationScenario()[pri:0, instance:E2E_Test@1afd44cb]" started-at="2025-10-03T15:42:43 EEST" name="E2E_AutomationScenario" finished-at="2025-10-03T15:43:09 EEST" duration-ms="25740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- E2E_AutomationScenario -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:E2E_Test@1afd44cb]" started-at="2025-10-03T15:43:09 EEST" name="tearDown" finished-at="2025-10-03T15:43:09 EEST" duration-ms="193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- E2E_Test -->
+    </test> <!-- automationTests -->
+  </suite> <!-- E2E_AutomationTask -->
+</testng-results>

@@ -1,0 +1,7 @@
+pages\Laptops_Page.class
+pages\Cart_Page.class
+pages\Login_Page.class
+pages\Home_Page.class
+utils\BaseDriver.class
+pages\Smartwatches_Page.class
+utils\WaitUtils.class
